@@ -1,1 +1,1 @@
-Distributed Cache System with Redis
+Simple Distributed Cache System with Redis and PostgreSQL 
