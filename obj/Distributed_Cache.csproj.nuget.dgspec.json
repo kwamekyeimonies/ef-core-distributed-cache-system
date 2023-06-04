@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kyeimonies/Code/github.com/kwamekyeimonies/microsoft-dev/Distributed_Cache/Distributed_Cache.csproj": {}
+  },
+  "projects": {
+    "/home/kyeimonies/Code/github.com/kwamekyeimonies/microsoft-dev/Distributed_Cache/Distributed_Cache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kyeimonies/Code/github.com/kwamekyeimonies/microsoft-dev/Distributed_Cache/Distributed_Cache.csproj",
+        "projectName": "Distributed_Cache",
+        "projectPath": "/home/kyeimonies/Code/github.com/kwamekyeimonies/microsoft-dev/Distributed_Cache/Distributed_Cache.csproj",
+        "packagesPath": "/home/kyeimonies/.nuget/packages/",
+        "outputPath": "/home/kyeimonies/Code/github.com/kwamekyeimonies/microsoft-dev/Distributed_Cache/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kyeimonies/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/home/kyeimonies/Downloads/Compressed/install_dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/kyeimonies/Downloads/Compressed/install_dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
